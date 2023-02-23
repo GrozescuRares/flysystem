@@ -33,7 +33,6 @@
 /.gitignore export-ignore
 /bin/ export-ignore
 /mocked-functions.php export-ignore
-/test_files/ export-ignore
 /**/*Test.php export-ignore
 /**/*Stub.php export-ignore
 /**/Stub*.php export-ignore
